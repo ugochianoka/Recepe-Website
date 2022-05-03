@@ -1,2 +1,2 @@
-# Recepe-Website
+# Recipe-Website
 Responsive Recipe website using Tailwind css
